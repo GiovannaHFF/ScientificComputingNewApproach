@@ -1,0 +1,30 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\title{A História da Probabilidade}
+\author{Raul Pinheiro Rocha \\ Nº USP: 10301342}
+\begin{document}
+
+\maketitle
+Na Matemática, há um importante ramo de estudo que se dedica a ocorrências de eventos não determinísticos ou estocásticos, esta área denomina-se Probabilidade, Teoria da Probabilidade ou Cálculo de Probabilidade. Atualmente, encontram-se aplicações da probabilidade em diversos espaços do conhecimento, entretanto, a humanidade passou por longo período de tempo da sua história sem se dedicar a esse assunto. 
+
+Em muitas civilizações humanas, associava-se eventos não determinísticos com a demonstração de um poder divino, em partes, acreditava-se que tudo possuia uma causa. Segundo Kendal (1997), "A humanidade precisou de centenas de anos para se acostumar com um mundo onde alguns eventos não tinham causa... ou eram determinados por causas tão remotas que somente podiam ser razoavelmente representados por modelos probabilísticos." 
+
+A teoria da Probabilidade surgiu somente no século XV, como disciplina da Matemática, mesmo que já havia se iniciado como ciência empírica anteriormente. As suas origens principais são referentes a: jogos de dados, mais precisamento o Tali(jogo do osso) que era praticado com astrálagos (ancestral do dado moderno), e também com a prática de seguros, utilizado por comerciantes mesopotâmicos e fenícios aplicada à perda da carga de navios por naufrágio ou roubo.
+
+Os italianos do século XV e XVI foram os pioneiros nos cálculos de probabilidade, entretanto não formularam conceitos e teorias, limitaram-se a resolver problemas concretos da disciplina. 
+Somente em 1689, o suíço Jacques Bernoulli (1654-1705) publica um trabalho sobre séries que levou a formulação de um dos principais teoremas da teoria da Probabilidade que ele denominou de "lei dos grandes números"e iniciou-se, assim, o processo de sistematização da probabilidade.
+Ainda um grande matemático que trabalhou sobre a disciplina, foi Laplace (1749-1827). Ele ampliou o campo de aplicações da teoria da probabilidade, que ainda era pimordialmente voltada para os jogos e seguros, para outras áreas como a teoria dos erros, a matemática atuarial e a mecânica estatística.
+A partir de Laplace, outros grandes matemáticos interessaram-se pelo estudo da teoria de Probabilidade, fez-se ganhar maior notoriedade na academia.
+Ainda, probabilidade e estatística tornaram-se intimamente ligadas através do trabalho em testes de hipóteses (teste para tomada de decisão entre duas ou mais hipóteses) de R.A. Fisher e Jerzy Neyman. Atualmente, esta disciplina é indispensável em diversas áreas do conhecimento além da Matemática.\\
+
+\textbf{Referências:} \\
+ALGUMAS CONSIDERAÇÕES SOBRE A ORIGEM DA TEORIA DA PROBABILIDADE, Lorí Viali \\
+UMA BREVE HISTÓRIA DA TOMADA DE DECISÃO, BUCHANAN, Leigh e O’CONNELL, Andrew \\
+A modern introduction to probability and statistics- F.M. Dekking
+
+
+
+\end{document}
